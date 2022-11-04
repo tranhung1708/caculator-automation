@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 Windows.startApplicationWithTitle('C:\\Windows\\System32\\calc.exe', 'Calculator')
 
-Windows.click(findWindowsObject('Object Repository/Calculator Minus/Button Five'))
+Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Five'))
 
-Windows.clickElementOffset(findWindowsObject('Object Repository/Calculator Minus/Button Minus'), 0, 0)
+Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Minus'))
 
-Windows.clickElementOffset(findWindowsObject('Object Repository/Calculator Minus/Button Eight'), 0, 0)
+Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Eight'))
 
-Windows.click(findWindowsObject('Object Repository/Calculator Minus/Button Equals'))
+Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Equals'))
 
-String result = Windows.getText(findWindowsObject('Object Repository/Calculator Minus/Display Text'))
+String result = Windows.getText(findWindowsObject('Object Repository/Minus Calculator/Display Text'))
 
 def extractInts( String input ) {
 	input.findAll( /-?\d+\.\d*|-?\d*\.\d+|-?\d+/ )*.toInteger()
