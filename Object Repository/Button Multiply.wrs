@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WindowsElementEntity>
    <description></description>
-   <name>Button Minus</name>
+   <name>Button Multiply</name>
    <tag></tag>
-   <locator>Minus</locator>
-   <locatorStrategy>NAME</locatorStrategy>
+   <locator>multiplyButton</locator>
+   <locatorStrategy>ACCESSIBILITY_ID</locatorStrategy>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>

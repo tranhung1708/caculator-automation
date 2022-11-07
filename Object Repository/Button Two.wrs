@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WindowsElementEntity>
    <description></description>
-   <name>Display Text</name>
+   <name>Button Two</name>
    <tag></tag>
-   <locator>Display is 0</locator>
+   <locator>Two</locator>
    <locatorStrategy>NAME</locatorStrategy>
    <properties>
       <isSelected>false</isSelected>
@@ -11,7 +11,7 @@
       <name>ItemStatus</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>26aeed6f-4d1a-4c17-b943-9f0dde650982</webElementGuid>
+      <webElementGuid>0f6a1e9b-af8e-44ad-a1f8-8378d3a18c32</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -19,15 +19,15 @@
       <name>ItemType</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>8efd4e44-4045-412d-904a-347c872001e9</webElementGuid>
+      <webElementGuid>d1802572-4e02-4588-982d-518304c37c80</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>Name</name>
       <type>Main</type>
-      <value>Display is 0</value>
-      <webElementGuid>df8c6c44-2291-4a2f-9ffe-12b81c3b0807</webElementGuid>
+      <value>Two</value>
+      <webElementGuid>d377991d-e000-4fde-a1db-a461057ff214</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -35,15 +35,15 @@
       <name>IsPassword</name>
       <type>Main</type>
       <value>False</value>
-      <webElementGuid>72993924-bc1f-4925-9de2-ee216c1d3228</webElementGuid>
+      <webElementGuid>390d5c76-cbb1-400c-bdcb-f29006be5cd0</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ClassName</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>68417e7c-3643-44ee-8454-610bcaf334b9</webElementGuid>
+      <value>Button</value>
+      <webElementGuid>475d6d50-6655-4ce1-a486-7e156be658b1</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>FrameworkId</name>
       <type>Main</type>
       <value>XAML</value>
-      <webElementGuid>cacd6d01-74eb-48fc-bf57-4790223e3e49</webElementGuid>
+      <webElementGuid>5d702f34-7474-48fd-90dd-080ea6ccdd61</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>AccessKey</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>988cfc88-6ce2-41ed-b47c-f4bcfa0697ae</webElementGuid>
+      <webElementGuid>c9b42518-b883-4492-93e3-b8a078e935b0</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -67,15 +67,15 @@
       <name>IsKeyboardFocusable</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>1d394615-e27f-4ec9-a592-04a8a7d42b7d</webElementGuid>
+      <webElementGuid>29df3fc9-5b0f-4ea8-b76c-c20d0eeb3033</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>RuntimeId</name>
       <type>Main</type>
-      <value>42.1378744.4.7</value>
-      <webElementGuid>4fec181e-9878-4233-9cae-df9414b07e64</webElementGuid>
+      <value>42.69532.4.55</value>
+      <webElementGuid>3e2ab53a-55eb-44b9-a704-aaed16adaca5</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -83,15 +83,15 @@
       <name>IsOffscreen</name>
       <type>Main</type>
       <value>False</value>
-      <webElementGuid>46a94f1b-8588-4b91-9728-9ff60c1ac139</webElementGuid>
+      <webElementGuid>c59a55e8-5c1a-4d95-aacd-3a401570e9b0</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>85</value>
-      <webElementGuid>c6846c86-d936-44c4-86a1-324e7ac8e6af</webElementGuid>
+      <value>58</value>
+      <webElementGuid>696916d1-b748-4a35-88ff-257e25a1ecf1</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>IsEnabled</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>13607d35-940b-4b30-9a1f-37ed4dbb71bb</webElementGuid>
+      <webElementGuid>fdc58f31-9b16-41a6-a72b-810de85b1ba1</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>HasKeyboardFocus</name>
       <type>Main</type>
       <value>False</value>
-      <webElementGuid>52a4ae36-e814-4d26-914d-a11bca29e835</webElementGuid>
+      <webElementGuid>3f0f427d-0931-49dd-9efb-58e9d21c537a</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>IsRequiredForForm</name>
       <type>Main</type>
       <value>False</value>
-      <webElementGuid>947d05ef-d228-4403-9ab4-8c35937e3cbc</webElementGuid>
+      <webElementGuid>9f776639-d67b-403a-94ab-862d9f1de53f</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -123,15 +123,15 @@
       <name>HelpText</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>0f9fa97a-4c39-472a-9f94-6c65878bf74f</webElementGuid>
+      <webElementGuid>afb368fd-48ec-4048-96f7-90d9a8363bb3</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>AutomationId</name>
       <type>Main</type>
-      <value>CalculatorResults</value>
-      <webElementGuid>c29c50a6-2d20-4fca-abbf-37f8906f19d9</webElementGuid>
+      <value>num2Button</value>
+      <webElementGuid>e35d4f37-9673-47f2-b6c4-4353a21b9370</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@
       <name>Orientation</name>
       <type>Main</type>
       <value>None</value>
-      <webElementGuid>fa95303e-94c4-4926-9c8a-f88077bbc25a</webElementGuid>
+      <webElementGuid>64f93c24-8dbe-4d02-8d1e-f52f1a377e10</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -147,47 +147,47 @@
       <name>IsContentElement</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>74c6be72-0eef-4157-9bd5-9b582a942bcd</webElementGuid>
+      <webElementGuid>88e9f0dc-6be5-42a2-a40a-59f8c4fe6cf2</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>LocalizedControlType</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>a68f7fdf-9c2a-4997-a26c-bf911502d501</webElementGuid>
+      <value>button</value>
+      <webElementGuid>c92acdfb-bff0-463a-8c40-542b5bac30b5</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>320</value>
-      <webElementGuid>055c3f66-82bc-417b-98d3-26e350df8340</webElementGuid>
+      <value>76</value>
+      <webElementGuid>67a1cc59-5340-455a-bf3e-48e81cf39a4b</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>0ffa6336-701b-4c67-9063-8a496f15506d</webElementGuid>
+      <value>83</value>
+      <webElementGuid>8b8ae29f-3fcb-4d6a-8e65-a95c21f9e3fb</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>96</value>
-      <webElementGuid>ce9c7ab3-b733-4c0f-9a13-44445541a5c2</webElementGuid>
+      <value>460</value>
+      <webElementGuid>10d99b41-7de4-477d-a14c-59a69dfab249</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ProcessId</name>
       <type>Main</type>
-      <value>21956</value>
-      <webElementGuid>c3307fa8-0bcd-40a6-8e8e-d2525a2fa175</webElementGuid>
+      <value>20616</value>
+      <webElementGuid>33b17d79-926c-4540-84f4-ed9db7a90c43</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -195,7 +195,7 @@
       <name>IsControlElement</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>0c2e9df6-f94d-4a62-98f8-76d85ddd286c</webElementGuid>
+      <webElementGuid>c425d9c7-b48c-4506-b49d-4508aa65321a</webElementGuid>
    </properties>
    <properties>
       <isSelected>false</isSelected>
@@ -203,6 +203,6 @@
       <name>AcceleratorKey</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>e591d82c-086b-404c-b32f-90f19cc4cd99</webElementGuid>
+      <webElementGuid>71a32235-5c4e-4b1b-9eb8-d1e3b416be28</webElementGuid>
    </properties>
 </WindowsElementEntity>

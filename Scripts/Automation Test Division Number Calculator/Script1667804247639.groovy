@@ -19,21 +19,24 @@ import org.openqa.selenium.Keys as Keys
 
 Windows.startApplicationWithTitle('C:\\Windows\\System32\\calc.exe', 'Calculator')
 
-Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Five'))
+Windows.click(findWindowsObject('Object Repository/Button Nine'))
 
-Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Minus'))
+Windows.click(findWindowsObject('Object Repository/Button Nine'))
 
-Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Eight'))
+Windows.click(findWindowsObject('Object Repository/Button Divide'))
 
-Windows.click(findWindowsObject('Object Repository/Minus Calculator/Button Equals'))
+Windows.click(findWindowsObject('Object Repository/Button Three'))
 
-String result = Windows.getText(findWindowsObject('Object Repository/Minus Calculator/Display Text'))
+Windows.click(findWindowsObject('Object Repository/Button Three'))
+
+Windows.click(findWindowsObject('Object Repository/Button Equals'))
+String result = Windows.getText(findWindowsObject('Object Repository/Display Result'))
 
 def extractInts( String input ) {
 	input.findAll( /-?\d+\.\d*|-?\d*\.\d+|-?\d+/ )*.toInteger()
 }
 
-if (extractInts(result)[0] == 45) {
+if (extractInts(result)[0] == 3) {
 	System.out.println("Hoàn thành")
 } else {
 	Windows.click(findWindowsObject('ERROR'))
