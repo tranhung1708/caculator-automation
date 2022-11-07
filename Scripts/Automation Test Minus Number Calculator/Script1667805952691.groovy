@@ -21,13 +21,11 @@ Windows.startApplicationWithTitle('C:\\Windows\\System32\\calc.exe', 'Calculator
 
 Windows.click(findWindowsObject('Object Repository/Button Nine'))
 
-Windows.click(findWindowsObject('Object Repository/Button Nine'))
+Windows.click(findWindowsObject('Object Repository/Button Four'))
 
-Windows.click(findWindowsObject('Object Repository/Button Divide'))
+Windows.click(findWindowsObject('Object Repository/Button Minus'))
 
-Windows.click(findWindowsObject('Object Repository/Button Three'))
-
-Windows.click(findWindowsObject('Object Repository/Button Three'))
+Windows.click(findWindowsObject('Object Repository/Button Six'))
 
 Windows.click(findWindowsObject('Object Repository/Button Equals'))
 
@@ -37,7 +35,7 @@ def extractInts( String input ) {
 	input.findAll( /-?\d+\.\d*|-?\d*\.\d+|-?\d+/ )*.toInteger()
 }
 
-if (extractInts(result)[0] == 3) {
+if (extractInts(result)[0] == 88) {
 	System.out.println("Hoàn thành")
 } else {
 	Windows.click(findWindowsObject('ERROR'))
